@@ -7,4 +7,5 @@ A demonstration of basic Vue.js features including Vuex.
 Clone repo and run:
 `npm i && npm run serve`
 
-Visit http://localhost:8080/ to view the app
+Local: http://localhost:8080/ 
+Live: https://vue-coach-finder-72ea0.web.app
