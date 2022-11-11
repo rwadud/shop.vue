@@ -8,4 +8,3 @@ Clone repo and run:
 `npm i && npm run serve`
 
 Local: http://localhost:8080/ 
-Live: https://vue-coach-finder-72ea0.web.app
